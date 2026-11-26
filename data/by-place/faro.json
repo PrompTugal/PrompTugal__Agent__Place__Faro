@@ -1239,83 +1239,83 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:33Z",
+  "read_at": "2026-11-26T11:21Z",
   "by": "place.faro@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Faro é o segundo distrito com mais mulheres e raparigas vítimas de crime e violência apoiadas pela APAV",
-   "url": "https://www.barlavento.pt/apav-vitimas-mulheres-raparigas-violencia-distrito-faro-2026/",
+   "title": "AlgarOrange apresenta Citrinos do Algarve IGP em Bruxelas a profissionais do retalho belga",
+   "url": "https://www.barlavento.pt/algarorange-citrinos-algarve-igp-bruxelas/",
    "source": "Barlavento",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:28:24Z",
-   "names_place": true
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:11:35Z",
+   "names_place": false
   },
   "items": [
    {
-    "title": "Faro é o segundo distrito com mais mulheres e raparigas vítimas de crime e violência apoiadas pela APAV",
-    "url": "https://www.barlavento.pt/apav-vitimas-mulheres-raparigas-violencia-distrito-faro-2026/",
-    "published": "2026-11-25T15:43Z",
+    "title": "AlgarOrange apresenta Citrinos do Algarve IGP em Bruxelas a profissionais do retalho belga",
+    "url": "https://www.barlavento.pt/algarorange-citrinos-algarve-igp-bruxelas/",
+    "published": "2026-11-26T11:04Z",
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Parques eólicos da costa sudoeste algarvia registam em média uma colisão por cada 21 mil aves observadas",
-    "url": "https://www.barlavento.pt/parques-eolicos-colisoes-aves-costa-sudoeste-algarvia/",
-    "published": "2026-11-25T14:22Z",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
+    "read_at": "2026-11-26T11:11:35Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Câmara de Faro aprova proposta do PSD para criar Fundo Municipal de Habitação",
-    "url": "https://www.barlavento.pt/faro-fundo-municipal-habitacao-proposta-psd/",
-    "published": "2026-11-25T13:44Z",
+    "title": "Câmara de Lagos aprova orçamento superior a 119 milhões de euros para 2027",
+    "url": "https://www.barlavento.pt/camara-de-lagos-aprova-orcamento-superior-a-119-milhoes-de-euros-para-2027/",
+    "published": "2026-11-26T10:33Z",
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Zoomarine acompanha por satélite a adaptação da tartaruga Molly à vida no oceano",
-    "url": "https://www.barlavento.pt/tartaruga-molly-zoomarine-monitorizacao-satelite/",
-    "published": "2026-11-25T11:02Z",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
+    "read_at": "2026-11-26T11:11:35Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Vila Natal com mercados, concertos e teatro no centro de Vila Real de Santo António",
-    "url": "https://www.barlavento.pt/vila-natal-vila-real-santo-antonio-programa-2026/",
-    "published": "2026-11-25T10:34Z",
+    "title": "Desenhar uma bacia: o masterplan do Mira",
+    "url": "https://www.barlavento.pt/desenhar-bacia-masterplan-mira/",
+    "published": "2026-11-26T10:12Z",
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
+    "read_at": "2026-11-26T11:11:35Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
    },
    {
-    "title": "Rede de rega da Várzea de Odeleite vai levar água da barragem a 130 hectares",
-    "url": "https://www.barlavento.pt/rede-rega-varzea-odeleite-130-hectares-ccdr-algarve/",
-    "published": "2026-11-25T10:18Z",
+    "title": "Portimão vive 37 dias de Natal com pista de gelo e 60 espetáculos gratuitos",
+    "url": "https://www.barlavento.pt/portimao-vive-37-dias-de-natal-com-pista-de-gelo-e-60-espetaculos-gratuitos/",
+    "published": "2026-11-26T09:44Z",
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T02:28:24Z",
+    "read_at": "2026-11-26T11:11:35Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Lagoa dos Salgados tem prazo para ser reserva natural e SPEA-BirdLife quer modelo de gestão",
+    "url": "https://www.barlavento.pt/lagoa-salgados-reserva-natural-2027-spea-birdlife/",
+    "published": "2026-11-26T09:18Z",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/feed/",
+    "read_at": "2026-11-26T11:11:35Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Algarviana Ultra Trail bate recorde com 100 inscritos na travessia de Alcoutim a Sagres",
+    "url": "https://www.barlavento.pt/algarviana-ultra-trail-recorde-inscritos-alcoutim-sagres/",
+    "published": "2026-11-26T09:00Z",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/feed/",
+    "read_at": "2026-11-26T11:11:35Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
    }
   ]
  }
